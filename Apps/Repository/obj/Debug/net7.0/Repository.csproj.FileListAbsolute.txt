@@ -1,0 +1,14 @@
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/bin/Debug/net7.0/Repository.deps.json
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/bin/Debug/net7.0/Repository.runtimeconfig.json
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/bin/Debug/net7.0/Repository.dll
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/bin/Debug/net7.0/Repository.pdb
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/Repository.csproj.AssemblyReference.cache
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/Repository.AssemblyInfoInputs.cache
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/Repository.AssemblyInfo.cs
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/Repository.csproj.CoreCompileInputs.cache
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/Repository.dll
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/refint/Repository.dll
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/Repository.pdb
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/Repository.genruntimeconfig.cache
+/media/permata/Data/IntTest/BisnisItegrasiGlobal/Apps/Repository/obj/Debug/net7.0/ref/Repository.dll
